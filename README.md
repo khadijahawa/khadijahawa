@@ -18,10 +18,7 @@ About Me
   
 
 - ✉️  You can contact me at [khadijahawa555@gmail.com](mailto:khadijahawa555@gmail.com)  
-  
-
-- 🔭 I’m currently working on [web-cms project at Mora.com](https://www.mora.com/) projects  
-  
+    
 
 - 🌱 I’m currently learning next js & Node.js  
     
