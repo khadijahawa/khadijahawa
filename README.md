@@ -8,21 +8,19 @@ About Me
 ## I'm Laila Hawa "Khadija",  
   
 
-### A full-time junior web developer 👨‍💻 working in a Remote workspace.  
+### A full-time Full-stack developer 👨‍💻 working in a Remote workspace.  
   
 
-- 🌍  i am living in Turkey  
+- 🌍  I am living in Berlin  
   
 
 - 🖥️  See my Linkedin at [https://www.linkedin.com/in/lailahawa/](https://www.linkedin.com/in/lailahawa/)
 
 - ✉️  You can contact me at [khadijahawa555@gmail.com](mailto:lailahawa.eng@gmail.com)  
     
+- 🌱 I’m the CTO at NDM Solutions [https://www.linkedin.com/in/lailahawa/](https://www.linkedin.com/in/lailahawa/)
 
-- 🌱 I’m currently learning next js & Node.js  
-    
-
-- 🤝  I'm open to collaborating on creative projects that is needed on daily basis using the web.  
+- 🤝  I'm open to collaborating on creative projects that are needed daily using the web.  
    
 
 <br/>  
