@@ -14,10 +14,9 @@ About Me
 - 🌍  i am living in Turkey  
   
 
-- 🖥️  See my portfolio at [https://khadijahawa.netlify.app/](https://khadijahawa.netlify.app/)  
-  
+- 🖥️  See my Linkedin at [[https://khadijahawa.netlify.app](https://www.linkedin.com/in/lailahawa/]
 
-- ✉️  You can contact me at [khadijahawa555@gmail.com](mailto:khadijahawa555@gmail.com)  
+- ✉️  You can contact me at [khadijahawa555@gmail.com](mailto:lailahawa.eng@gmail.com)  
     
 
 - 🌱 I’m currently learning next js & Node.js  
