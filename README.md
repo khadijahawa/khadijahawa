@@ -5,7 +5,7 @@ About Me
 </div>  
   
 
-## I'm Khadija Hawa,  
+## I'm Laila Hawa "Khadija",  
   
 
 ### A full-time junior web developer 👨‍💻 working in a Remote workspace.  
