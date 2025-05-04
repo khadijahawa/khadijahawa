@@ -14,7 +14,7 @@ About Me
 - 🌍  i am living in Turkey  
   
 
-- 🖥️  See my Linkedin at [[https://khadijahawa.netlify.app](https://www.linkedin.com/in/lailahawa/]
+- 🖥️  See my Linkedin at [https://www.linkedin.com/in/lailahawa/](https://www.linkedin.com/in/lailahawa/)
 
 - ✉️  You can contact me at [khadijahawa555@gmail.com](mailto:lailahawa.eng@gmail.com)  
     
