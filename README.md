@@ -1,27 +1,24 @@
-# Laila-Hawa
+
 About Me 
 <div align="center">
    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-## I'm Laila Hawa "Khadija",  
+## I'm Khadija Hawa  
   
 
-### A full-time Full-stack developer 👨‍💻 working in a Remote workspace.  
+### A full-time Full-stack developer.  
   
 
-- 🌍  I am living in Berlin  
+- 🌍  I am living in Istanbul
   
-
 - 🖥️  See my Linkedin at [https://www.linkedin.com/in/lailahawa/](https://www.linkedin.com/in/lailahawa/)
 
-- ✉️  You can contact me at [khadijahawa555@gmail.com](mailto:lailahawa.eng@gmail.com)  
+- ✉️  You can contact me at [khadijahawa.dev@gmail.com](mailto:khadijahawa.dev@gmail.com)  
     
-- 🌱 I’m the CTO at NDM Solutions [https://www.linkedin.com/in/lailahawa/](https://www.linkedin.com/in/lailahawa/)
-
 - 🤝  I'm open to collaborating on creative projects that are needed daily using the web.  
-   
+  
 
 <br/>  
 
