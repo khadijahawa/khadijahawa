@@ -11,7 +11,7 @@ About Me
 ### A full-time Full-stack developer.  
   
 
-- 🌍  I am living in Istanbul
+- 🌍  I am based in Istanbul
   
 - 🖥️  See my Linkedin at [https://www.linkedin.com/in/lailahawa/](https://www.linkedin.com/in/lailahawa/)
 
