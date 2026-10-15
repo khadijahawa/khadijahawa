@@ -13,7 +13,7 @@ About Me
 
 - 🌍  I am based in Istanbul
   
-- 🖥️  See my Linkedin at [https://www.linkedin.com/in/lailahawa/](https://www.linkedin.com/in/khadijahawa//)
+- 🖥️  See my Linkedin at [https://www.linkedin.com/in/lailahawa/](https://www.linkedin.com/in/khadijahawa/)
 
 - ✉️  You can contact me at [khadijahawa.dev@gmail.com](mailto:khadijahawa.dev@gmail.com)  
     
